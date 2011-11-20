@@ -1,0 +1,1 @@
+This is the sprite editor for the gfighter project.It got more complicated than I would like it to be...I started implementing LUA support, but later I made the editor use c code... a confusion.Anyway, if someone is interested in continuing the gfighter project, might be interested in taking a look.
